@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kinesis.producer.library.iml" filepath="$PROJECT_DIR$/.idea/modules/kinesis.producer.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kinesis.producer.library_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kinesis.producer.library_main.iml" group="kinesis.producer.library" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kinesis.producer.library_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kinesis.producer.library_test.iml" group="kinesis.producer.library" />
+    </modules>
+  </component>
+</project>
